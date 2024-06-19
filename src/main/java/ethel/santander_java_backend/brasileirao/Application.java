@@ -1,4 +1,4 @@
-package ethel.santander_java_backend;
+package ethel.santander_java_backend.brasileirao;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
